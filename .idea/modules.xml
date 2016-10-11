@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BoilerplateToolPlayground.iml" filepath="$PROJECT_DIR$/BoilerplateToolPlayground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/autovalueplayground/autovalueplayground.iml" filepath="$PROJECT_DIR$/autovalueplayground/autovalueplayground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/immutablesplayground/immutablesplayground.iml" filepath="$PROJECT_DIR$/immutablesplayground/immutablesplayground.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lombokplayground/lombokplayground.iml" filepath="$PROJECT_DIR$/lombokplayground/lombokplayground.iml" />
+    </modules>
+  </component>
+</project>
